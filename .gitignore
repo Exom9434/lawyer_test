@@ -1,0 +1,39 @@
+법령_전처리_텍스트/
+법령_통합텍스트/
+법령_통합텍스트(현역)/
+법령별 csv 저장(현역)/
+법령별 csv 저장(현역) 중복제거/
+변시_연혁별(폐기)/
+연도별/
+연도별/법령_전처리_텍스트
+연도별/법령_통합텍스트(연혁)
+연도별/법령별_csv_저장(연혁)
+연도별/법령별_csv_저장(연혁)_중복제거
+preprocessed_laws.csv
+# 파이썬 가상환경
+.venv/
+venv/
+env/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 운영체제 및 시스템 파일
+.DS_Store
+Thumbs.db
+
+# IDE 및 에디터 설정 파일
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 설치 패키지 관련
+*.egg-info/
+dist/
+build/
